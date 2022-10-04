@@ -81,7 +81,7 @@ cask "webpquicklook"
 mas "com.echodot.Red", id: 1491764008
 mas "Ecosia - The search engine that plants trees", id: 1463400445
 mas "GarageBand", id: 682658836
-mas "Gifski", id: 1351639930\
+mas "Gifski", id: 1351639930
 mas "Home Assistant", id: 1099568401
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
